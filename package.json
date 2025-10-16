@@ -1,0 +1,18 @@
+{
+  "name": "auto-jira-task-frontend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "nuxt": "^3.11.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.8",
+    "typescript": "^5.4.5"
+  }
+}
